@@ -1,5 +1,5 @@
 # 隨堂1
-請fork老師的110-2QZ1倉庫，其網址為<https://github.com/altoliaw3/110-2QZ1>，並從伺服器自己帳號下相同倉庫名進行clone於自己專案資料集中，clone完後，請利用Markdown語法進行編輯檔案。
+請fork老師的110-2QZ1倉庫，其網址為<https://github.com/altoliaw3/110-2QZ1>，並從伺服器自己帳號下相同倉庫名進行clone於自己專案資料集中，clone完後，請編輯檔案。
 
 大綱敘述
 請參照Week09期中考題[根檔]撰寫第二題。
